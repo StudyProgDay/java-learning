@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+
+System.out.println("[DEBUG] Processing orders for user: " + user + ", item count: " + items.size());
